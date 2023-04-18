@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\bin\Debug\net7.0\Passagem-Avião.exe
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\bin\Debug\net7.0\Passagem-Avião.deps.json
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\bin\Debug\net7.0\Passagem-Avião.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\bin\Debug\net7.0\Passagem-Avião.dll
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\bin\Debug\net7.0\Passagem-Avião.pdb
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\obj\Debug\net7.0\Passagem-Avião.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\obj\Debug\net7.0\Passagem-Avião.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\obj\Debug\net7.0\Passagem-Avião.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\obj\Debug\net7.0\Passagem-Avião.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\obj\Debug\net7.0\Passagem-Avião.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\obj\Debug\net7.0\Passagem-Avião.dll
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\obj\Debug\net7.0\refint\Passagem-Avião.dll
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\obj\Debug\net7.0\Passagem-Avião.pdb
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\obj\Debug\net7.0\Passagem-Avião.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Passagem-Avião\obj\Debug\net7.0\ref\Passagem-Avião.dll
